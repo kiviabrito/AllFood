@@ -1,4 +1,20 @@
 <resources>
-    <string name="app_name">AllFood</string>
-    <string name="title_activity_maps">Map</string>
+    <string name="app_name">ATLunch</string>
+
+    <!-- MainActivity START -->
+    <string name="at_lunch_label">at Lunch</string>
+    <string name="search_for_a_restaurant_label">Search for a restaurant</string>
+    <!-- MainActivity END -->
+
+    <!-- MapFragment START -->
+    <string name="list_label">List</string>
+    <string name="search_this_area_label">Search this area</string>
+    <!-- MapFragment END -->
+
+    <!-- ListFragment START -->
+    <string name="map_label">Map</string>
+    <string name="total_rating_format">(%1$s)</string>
+    <string name="distance_format">%1$s km</string>
+    <!-- ListFragment END -->
+
 </resources>
